@@ -3,3 +3,7 @@ print x
 
 def fun2(x)
 orint x +1
+
+
+def fun3(x)
+orint x +x
